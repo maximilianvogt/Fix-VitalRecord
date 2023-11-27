@@ -1,6 +1,6 @@
 # VitalRecorder Software Bugfix: EEG waves from PHILIPS Intellivue Patient monitor on a single track 
 
-When recording EEG data from PHILIPS Intellivue Monitors with VitalRecorder (https://vitaldb.net/vital-recorder/) both waveform are written to a single track. 
+When recording EEG data from PHILIPS Intellivue Monitors with VitalRecorder (https://vitaldb.net/vital-recorder/) both waveforms are written to a single track. 
 While the data of both signals is saved in the *.vital file format, using the VitalRecorder software or the python API only a single waveform can be exported.
 
 ## Usage
