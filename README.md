@@ -10,5 +10,5 @@ Given the filepath of the VITAL file, the function extracts the EEG data and spl
 See license document.
 
 ## Contact information
-The function was written by XXX (XXXX@XXX.de)
+The function was written by Arndt Wagner (arndt-christian.wagner@mailbox.tu-dresden.de)
 as part of a multicenter biosignal data acqusition project lead by Dr. Jakob Garbe, MD (jakob.garbe@uk-halle.de).
